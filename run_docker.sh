@@ -1,0 +1,1 @@
+docker run -it --rm -v $(pwd):$(pwd) masif_mimicry_paper /bin/bash

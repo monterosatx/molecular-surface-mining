@@ -1,0 +1,1 @@
+docker build . -t masif_mimicry_paper
