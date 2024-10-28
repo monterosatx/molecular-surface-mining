@@ -43,7 +43,7 @@ Masif requires docker and a docker container to run properly.
 
 1. Clone the repository:
     ```bash
-    git clone git@bitbucket.org:monterosatx/masif_mimicry_paper.git
+    git clone git@github.com:monterosatx/molecular-surface-mining.git
     cd masif_mimicry_paper
     ```
 
